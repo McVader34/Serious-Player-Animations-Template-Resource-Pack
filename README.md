@@ -45,7 +45,7 @@ This template resource pack changes the elytra animation from Serious Player Ani
 
 - The elytra animation is a simple looped animation that does not really contain any movements (though you can add movement if you want). When making the resource pack it is important to put all your animations in the player_animation file of the resource pack. It is also important your animations have the same name as the default animation. I recommend downloading the animations you want to replace into the player_animation file then importing them to blockbench.
 
-- The default animations can be found [here](https://github.com/McVader34/Serious-Player-Animations/tree/MAIN-1.1.0/fabric/src/main/resources/assets/seriousplayeranimations/player_animation)
+- The default animations are included in the zip file under player_animation.
 
 ### 5. Notes for Animating in Blockbench
 
